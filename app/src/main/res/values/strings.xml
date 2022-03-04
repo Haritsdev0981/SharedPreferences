@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Share preference</string>
+    <string name="txt_enter_name">Enter Name</string>
+    <string name="txt_enter_Age">Enter Age</string>
+    <string name="txt_are_you_experiented">Are you experiented?</string>
+    <string name="txt_show_inf">Show Inf</string>
+</resources>
